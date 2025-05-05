@@ -13,7 +13,7 @@ const Hero = () => {
               Alexander Allotey-Bray
             </h1>
             <br />
-            <span className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl tracking-tight text-transparent">
+            <span className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-3xl tracking-tight text-transparent">
               Software Developer | IT Analyst
             </span>
             <p className="my-2 max-w-xl py-6 font-light tracking-tigher">
@@ -28,7 +28,7 @@ const Hero = () => {
               <img
                 src={profilePic}
                 alt="Alex Profile Picture"
-                className="w-full h-auto object-cover object-top -mt-2"
+                className=" rounded-3xl w-full h-auto object-cover object-top"
               />
             </div>
           </div>{" "}
