@@ -5,7 +5,7 @@ import { SiMongodb } from "react-icons/si";
 import { DiRedis } from "react-icons/di";
 import { FaNodeJs } from "react-icons/fa";
 import { BiLogoPostgresql } from "react-icons/bi";
-import { motion } from "motion/react";
+import { motion } from "framer-motion";
 // import { animate } from "motion";
 
 const iconVariants = (duration) => ({
